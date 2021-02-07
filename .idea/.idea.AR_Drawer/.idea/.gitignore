@@ -1,0 +1,13 @@
+﻿# デフォルトの無視ファイル
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/.idea.AR_Drawer.iml
+/projectSettingsUpdater.xml
+/contentModel.xml
+# データソースのローカルストレージがファイルを無視しました
+/../../../../../../../../../:\Users\k019c1327\Documents\UnityProject\AR_Drawer\.idea\.idea.AR_Drawer\.idea/dataSources/
+/dataSources.local.xml
+# エディターベースの HTTP クライアントリクエスト
+/httpRequests/
