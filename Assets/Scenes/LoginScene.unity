@@ -220,7 +220,7 @@ GameObject:
   - component: {fileID: 408011458}
   - component: {fileID: 408011457}
   m_Layer: 5
-  m_Name: PasswordInputField
+  m_Name: PassInputField
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -908,7 +908,7 @@ GameObject:
   - component: {fileID: 844348223}
   - component: {fileID: 844348222}
   m_Layer: 5
-  m_Name: Text
+  m_Name: TitleText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
