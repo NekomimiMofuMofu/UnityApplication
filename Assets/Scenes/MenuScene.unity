@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 161332932}
   - component: {fileID: 161332931}
   m_Layer: 5
-  m_Name: Panel
+  m_Name: PanelDrawerSearch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -793,7 +793,7 @@ GameObject:
   - component: {fileID: 420102348}
   - component: {fileID: 420102347}
   m_Layer: 5
-  m_Name: Panel (2)
+  m_Name: PanelUserSettings
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1567,7 +1567,7 @@ GameObject:
   - component: {fileID: 976892138}
   - component: {fileID: 976892139}
   m_Layer: 5
-  m_Name: Toggle (2)
+  m_Name: ToggleUserSettings
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2269,7 +2269,7 @@ GameObject:
   - component: {fileID: 1962114694}
   - component: {fileID: 1962114695}
   m_Layer: 5
-  m_Name: Toggle (1)
+  m_Name: ToggleDrawerSearch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
